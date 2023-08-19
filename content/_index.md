@@ -1,7 +1,13 @@
 ---
-title: Home
-enableToc: true
+title: "Home"
+enableToc: false
+tags:
+- 
 ---
+
+# Hello!
+I'm SkiFreak, I'm using this as my website, blog, and place for work in progress projects/video scripts.
+
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
