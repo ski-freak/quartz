@@ -1,4 +1,4 @@
-name: SkiFreak
+name: Ski Freak
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -23,11 +23,7 @@ description:
 page_title:
   "Ski's Site"
 links:
-<<<<<<< HEAD
-  - link_name: Youtube
-=======
   - link_name: YouTube
->>>>>>> 830766f57671aea0d6a87792dff975ca227808df
     link: https://www.youtube.com/@Ski_Freak/featured
   - link_name: Twitch
     link: https://www.twitch.tv/that_ski_freak
@@ -36,8 +32,4 @@ links:
   - link_name: Twitter
     link: https://twitter.com/That_Ski_Freak
   - link_name: TMX
-<<<<<<< HEAD
     link: https://trackmania.exchange/user/profile/27633
-=======
-    link: https://trackmania.exchange/user/profile/27633
->>>>>>> 830766f57671aea0d6a87792dff975ca227808df
