@@ -17,7 +17,7 @@ Here are some places you may want to visit:
 - #Video - Posts about or containing videos I have published. You can find reflections on videos after I release them, and maybe other things.
 - #WipVideo - Work in progress video scripts. I put these here to share with others to get feedback, usually via links. If you have insight on or are otherwise rather knowledgeable on the topic of any of these, feel free to send me a message on discord (@skifreak). I can always use more information, fact checking, or ideas for interesting things to include. Please do not steal 
 
-You can find a full list of tags here, if you would like to find posts on certain topics.
+You can find a [full list of tags here](https://ski-freak.github.io/quartz/tags/), if you would like to find posts on certain topics.
 
 > [!info]
 > You can use ctrl + k to easily open up the search function, which can search both the names and contents of pages on this site.
