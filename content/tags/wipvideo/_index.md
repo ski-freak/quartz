@@ -1,5 +1,4 @@
 ---
 title: "WipVideo"
-enableToc: false
+description: WipVideo tag description goes here.
 ---
-WipVideo tag description goes here.

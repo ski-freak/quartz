@@ -1,5 +1,4 @@
 ---
 title: "Navigation"
-enableToc: false
+description: Navigation tag description goes here.
 ---
-Navigation tag description goes here.
