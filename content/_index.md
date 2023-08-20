@@ -4,11 +4,11 @@ enableToc: false
 tags:
 - Navigation
 ---
-
 # Hello!
 I'm SkiFreak, I'm using this as my website, blog, and place for work in progress projects/video scripts. I like making things on the internet, and you can find it all here (or at least links).
 ## Get Started
-
+Here are some places you may want to visit:
+[[notes/New Notes/Script - Rng & Deterministic Engines|Script - Rng & Deterministic Engines]]
 
 > 📚 I host a few different things on this site, and they are sorted by tags:
 - #Navigation - Pages designed to organize other pages.
