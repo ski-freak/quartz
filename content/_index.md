@@ -1,9 +1,10 @@
 ---
 title: "Home"
+enableToc: 
 tags:
 - navigation
 ---
-# Hello!!
+# Hello!
 I'm SkiFreak, I'm now using this as my website, blog, and place for work in progress projects/video scripts. I like making things on the internet, and you can find it all here (or at least links).
 ## Start Here:
 Here are some places you may want to visit:
