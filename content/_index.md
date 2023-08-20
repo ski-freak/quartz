@@ -8,7 +8,7 @@ tags:
 # Hello!
 I'm SkiFreak, I'm now using this as my website, blog, and place for work in progress projects/video scripts. I like making things on the internet, and you can find it all here (or at least links).
 ## Start Here:
-Here are some places you may want to visit:
+Here are some places you may want to visit.
 - [[notes/Navigation/About Me|About Me]]
 - [[notes/Navigation/My Projects|My Projects]] - Projects and things I'm trying to make happen.
 - [[notes/Post/My Best Work|My Best Work]] - A showcase of my favorite things I've made on the internet, videos & more!
