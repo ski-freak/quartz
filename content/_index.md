@@ -22,7 +22,6 @@ You can find a [full list of tags here](https://ski-freak.github.io/quartz/tags/
 
 - You can use ctrl + k to easily open up the search function, which can search both the names and contents of pages on this site.
 - Each page also has backlinks and a graph view at the bottom. Backlinks show you all other pages on the site that mention the one you are currently on. The graph view shows 
-
 ### Find me on other platforms:
 - 🎥 [YouTube Channel](https://www.youtube.com/@Ski_Freak/featured)
 - 📹 [Second Channel](https://www.youtube.com/@SkiFreakTM)
