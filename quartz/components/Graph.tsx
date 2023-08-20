@@ -30,7 +30,7 @@ const defaultOptions: GraphOptions = {
     centerForce: 0.3,
     linkDistance: 30,
     fontSize: 0.6,
-    opacityScale: 3,
+    opacityScale: 4,
   },
   globalGraph: {
     drag: true,
@@ -41,7 +41,7 @@ const defaultOptions: GraphOptions = {
     centerForce: 0.3,
     linkDistance: 30,
     fontSize: 0.6,
-    opacityScale: 3,
+    opacityScale: 4,
   },
 }
 
