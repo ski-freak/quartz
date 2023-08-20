@@ -8,7 +8,7 @@ My 'main' YouTube channel is currently the project I take the most seriously, or
 
 You can find the channel [here.](https://www.youtube.com/@Ski_Freak)
 
-I made it after I decided that making videos on trackmania was too narrow, and in most cases trackmania topics simply didn't feel worth the effort it took.
+I made this channel after I decided that primarily making videos on trackmania over on the [[SkiFreakTM Channel]], for a trackmania familiar audience, was too narrow and often relatively uninteresting to create.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W7JYRqE-18w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gP7b_C3ejfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

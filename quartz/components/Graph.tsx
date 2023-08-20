@@ -28,7 +28,7 @@ const defaultOptions: GraphOptions = {
     scale: 1.5,
     repelForce: 0.5, // was .5
     centerForce: 0.3,
-    linkDistance: 50,
+    linkDistance: 45,
     fontSize: 0.5,
     opacityScale: 4,
   },
@@ -36,11 +36,11 @@ const defaultOptions: GraphOptions = {
     drag: true,
     zoom: true,
     depth: -1,
-    scale: 1.1,
+    scale: 1.0,
     repelForce: 0.5,
     centerForce: 0.3,
-    linkDistance: 30,
-    fontSize: 0.5,
+    linkDistance: 40,
+    fontSize: 0.4,
     opacityScale: 4,
   },
 }

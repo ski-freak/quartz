@@ -15,12 +15,3 @@ Below are a few videos from the channel:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0sJ4nknmpvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UpCjpqUpdPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
-
-
-
-This is a block of text. It's so cool isn't it? ^56171b
-
-This is another block, wicked! ^ot84p4
-
