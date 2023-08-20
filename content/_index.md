@@ -32,7 +32,7 @@ I host a few different things on this site, and they are sorted by tags:
 
 ---
 ### Find me on other platforms:
-- 🎥 [YouTube Channel](https://www.youtube.com/@Ski_Freak/featured)
+- 🎥 [YouTube Channel](https://www.youtube.com/@Ski_Freak)
 - 📹 [Second Channel](https://www.youtube.com/@SkiFreakTM)
 - 📺 [Twitch](https://www.twitch.tv/that_ski_freak)
 - 📰 [Discord Server](https://discord.gg/sRB54zg)
