@@ -12,7 +12,6 @@ Here are some places you may want to visit.
 - [[About Me]] 
 - [[My Projects]] - Projects and things I'm trying to make happen.
 - [[My Best Work]] - A showcase of my favorite things I've made on the internet, videos & more!
-- [[Current WIP Videos]] - Video scripts I am currently working on.
 
 ---
 > [!example] Tags
