@@ -18,7 +18,7 @@ You can find the channel [here.](https://www.youtube.com/@Ski_Freak)
 Moving forward I will be making some text posts / articles on this website. Here are some series I am making:
 - [#Reflection](./tags/reflection) - Reflections is a series about looking back on videos and other projects of mine that have been completed.
 - [#TM Theory](./tags/tmtheory) - TM Theory is a series about my ideas and theories pertaining to Trackmania.
-- 
+- [#TheLens](./tags/)
 - [#Post](./tags/post) - All the posts in one chronological feed.
 
 ---
