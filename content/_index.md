@@ -28,8 +28,8 @@ I host a few different things on this site, and they are sorted by tags:
 > [!info] Tips
 
 - You can find a [full list of tags here](/tags), if you would like to find posts on certain topics.
-- You can use **ctrl + k** to easily open up the search function, which can search both the names and contents of pages on this site.
-- Each page also has **backlinks** and a **graph view** at the bottom. Backlinks show you all other pages on the site that mention the one you are currently on. The graph view shows all pages the current page links to.
+- You can use *ctrl + k* to easily open up the search function, which can search both the names and contents of pages on this site.
+- Each page also has *backlinks* and a *graph view*. Backlinks show you all other pages on the site that mention the one you are currently on. The graph view shows all pages the current page links to.
 
 ---
 ### Find me on other platforms:
