@@ -1,4 +1,4 @@
-baseURL = "https://ski-freak.github.io/quartz/"
+baseURL = "https://ski-freak.github.io/site/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
