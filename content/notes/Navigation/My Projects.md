@@ -14,6 +14,13 @@ You can find the channel [here.](https://www.youtube.com/@Ski_Freak)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gP7b_C3ejfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+# [[Articles & Posts]]
+Moving forward I will be making some text posts / articles on this website. Here are some series I am making:
+- [#Reflection](./tags/reflection) - Reflections is a series about looking back on videos and other projects of mine that have been completed.
+- [#TM Theory](./tags/tmtheory) - TM Theory is a series about my ideas and theories pertaining to Trackmania.
+- [#Post](./tags/post) - All the posts in one chronological feed.
+
+---
 # [[My Trackmania Mapping]]
 
 
@@ -26,4 +33,3 @@ You can find the channel [here.](https://www.youtube.com/@SkiFreakTM)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UpCjpqUpdPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-# [[Articles & Posts]]

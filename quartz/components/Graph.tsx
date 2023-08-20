@@ -29,7 +29,7 @@ const defaultOptions: GraphOptions = {
     repelForce: 0.5,
     centerForce: 0.3,
     linkDistance: 30,
-    fontSize: 0.6,
+    fontSize: 0.5,
     opacityScale: 4,
   },
   globalGraph: {
