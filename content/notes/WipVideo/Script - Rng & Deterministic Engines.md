@@ -33,9 +33,9 @@ There is a real craft to making these maps, and the difference between one made 
 
 If you drive a time in tm, if you do the same inputs again, the exact same thing will happen. This obviously leads to the conclusion that the game has no rng, which in the traditional sense of the word. You will however, find a certain subset of players and viewers saying that because of this, no map is random and calling anything on a track random is wrong, but reality is a bit more complicated than that.
 
-This is a double pendulum. 
-it demonstrates chaos. 
-trackmania is chaotic. 
+- This is a double pendulum. 
+- it demonstrates chaos. 
+- trackmania is chaotic. 
 {I need to expand on the above points, they are just there as placeholders since I wanted to keep writing other stuff}
 
 even if you don't buy into that and still want to get out your nerd emoji and say actually it's technically not random, there are still external factors. Even if you move your thumb the same way on the analog stick of your controller, you'll probably get a slightly different result, because it's not a perfect instrument, and then that uncontrollable variable will have a butterfly effect on the chaotic system and create what is essentially a random outcome. 
@@ -69,10 +69,10 @@ In order for a physics engine to be deterministic, it needs to not use floating 
 
 
 This information is impossible to turn into any statement that I can be sure is correct, I don't know what to do. Here are some links that seemed relatively useful.
-https://www.reddit.com/r/learnprogramming/comments/7h0b4f/why_isnt_the_unity_physics_engine_deterministic/
-https://www.stevestreeting.com/2020/07/26/using-bullet-for-physics-in-ue4/#:~:text=UE%20uses%20PhysX%20(like%20Unity,in%20a%20fixed%2C%20repeatable%20order
-https://stackoverflow.com/questions/7365790/how-can-floating-point-calculations-be-made-deterministic
-https://forum.unity.com/threads/physx-determinism.127300/
+- https://www.reddit.com/r/learnprogramming/comments/7h0b4f/why_isnt_the_unity_physics_engine_deterministic/
+- [stevestreeting link](https://www.stevestreeting.com/2020/07/26/using-bullet-for-physics-in-ue4/#:~:text=UE%20uses%20PhysX%20(like%20Unity,in%20a%20fixed%2C%20repeatable%20order)
+- https://stackoverflow.com/questions/7365790/how-can-floating-point-calculations-be-made-deterministic
+- https://forum.unity.com/threads/physx-determinism.127300/
 
 --end impossibly annoying to research and verify section--
 
@@ -84,5 +84,5 @@ Thanks for watching.
 
 
 
-A while back a friend on discord shared with me a concept for a card game in which it is the hidden information that prevents the game from being deterministic, rather than random cards. These long running card games really weren't designed to be played in a way where you have access to all your cards, and are completely broken when you do. Perhaps, if you designed a game explicitly around the choices and interactions between hidden but always available cards, you could make it work
+A while back a friend on discord shared with me a concept for a card game in which it is the hidden information that prevents the game from being deterministic, rather than random cards. These long running card games really weren't designed to be played in a way where you have access to all your cards, and are completely broken when you do. Perhaps, if you designed a game explicitly around the choices and interactions between hidden but always available cards, you could make it work 
 {I should just cut this part as well, its kind of interesting but really doesn't fit, better to end at the end of the last block}
