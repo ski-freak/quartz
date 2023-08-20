@@ -18,7 +18,8 @@
   z-index: 999;
   position: absolute;
   overflow: visible;
-  padding: 0;
+  padding: 1rem;
+  pointer-events: none;
 
   & > .popover-inner {
     position: relative;
