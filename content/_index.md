@@ -18,7 +18,7 @@ Here are some places you may want to visit:
 > [!example] Tags
 
 I host a few different things on this site, and they are sorted by tags:
-- 📁 [Navigation](https://ski-freak.github.io/site/tags/navigation) - Pages designed to organize other pages.
+- 📁 [#Navigation](https://ski-freak.github.io/site/tags/navigation) - Pages designed to organize other pages.
 - 📫 [Post](https://ski-freak.github.io/site/tags/post) - Complete posts, at least mostly thought out ideas that are ready to be read, although their subjects may not be completed. If you just want a feed of everything here, check it out.
 - 💡 [Idea](https://ski-freak.github.io/site/tags/idea) - Small notes or thoughts that may be referred to in other posts or expanded on later.
 - 📺 [Video](https://ski-freak.github.io/site/tags/video) - Posts about or containing videos I have published. You can find reflections on videos after I release them, and maybe other things.
