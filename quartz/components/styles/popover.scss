@@ -19,7 +19,7 @@
   position: absolute;
   overflow: visible;
   padding: 1rem;
-  pointer-events: none;
+  // pointer-events: none; // makes the pop up things not stay up
 
   & > .popover-inner {
     position: relative;
