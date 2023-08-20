@@ -6,12 +6,13 @@ tags:
 ---
 # Hello!
 I'm SkiFreak, I'm now using this as my website, blog, and place for work in progress projects/video scripts. I like making things on the internet, and you can find it all here (or at least links).
-[[notes/Navigation/About Me|About Me]]
-## Start Here
+## Start Here:
 Here are some places you may want to visit:
-[[notes/Navigation/My Projects|My Projects]] - Projects and things I'm trying to make happen.
-[[notes/Post/My Best Work|My Best Work]] - My favorite things I've made on the internet, videos & more!
-[[notes/Navigation/Current WIP Videos|Current WIP Videos]] - Video scripts I am currently working on.
+- [[notes/Navigation/About Me|About Me]]
+- [[notes/Navigation/My Projects|My Projects]] - Projects and things I'm trying to make happen.
+- [[notes/Post/My Best Work|My Best Work]] - My favorite things I've made on the internet, videos & more!
+- [[notes/Navigation/Current WIP Videos|Current WIP Videos]] - Video scripts I am currently working on.
+
 
 ---
 > [!example] Tags
