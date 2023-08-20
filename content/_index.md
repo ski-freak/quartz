@@ -1,6 +1,5 @@
 ---
 title: "Home"
-enableToc: false
 tags:
 - navigation
 ---
