@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Ski's Site",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -65,6 +65,7 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        includeEmptyFiles: true,
       }),
       Plugin.Assets(),
       Plugin.Static(),
