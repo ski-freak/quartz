@@ -1,4 +1,4 @@
 ---
 title: "post"
-description: Post tag description goes here.
+description: Pages designed to organize other pages.
 ---
