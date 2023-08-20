@@ -1,4 +1,5 @@
 ---
 title: "idea"
-description: Idea tag description goes here.
+description: Small notes or thoughts that may be referred to in other posts or expanded on later.
 ---
+[See all tags -->](https://ski-freak.github.io/quartz/tags/)
