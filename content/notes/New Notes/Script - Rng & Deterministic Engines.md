@@ -2,7 +2,7 @@
 title: "Script - Rng & Deterministic Engines"
 enableToc: false
 tags:
-- WipVideo
+- wipvideo
 ---
 ----
 "deterministic engines & when games play themselves"
