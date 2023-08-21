@@ -73,3 +73,8 @@ Note: add these
 - But what you need to understand is that a perceived barrier to entry is essentially the same as an actual one when it comes to attracting participants to something. They will not know that it is not actually that bad until after they have surpassed the barrier or lack of it.
 - im sure anyone making a video on a game with such a feature it would mention how easy it is to go speedrun for yourself
 - even if a replay system is not as fool proof as video recording, the leaderboard could simply require video verification for top runs.
+
+
+
+---
+More: [Work in Progress Videos](./tags/wipvideo)

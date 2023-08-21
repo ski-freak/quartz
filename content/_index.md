@@ -27,7 +27,7 @@ It's possible I will make some of these into videos at some point, but editing l
 > [!example] Tags
 
 I host a few different things on this site, and they are sorted by tags:
-- 📁 [#Navigation](./tags/navigation) - Pages designed to organize other pages.
+- 📁 [#Navigation](./tags/navigation) - Navigation pages are designed to organize other pages.
 - 🌲 [#Evergreen](./tags/evergreen) - Evergreen pages are always kept up to date. 
 - 📫 [#Post](./tags/post) - Complete posts, at least mostly thought out ideas that are ready to be read, although their subjects may not be completed. If you just want a feed of everything here, check it out.
 - 💡 [#Idea](./tags/idea) - Small notes or thoughts that may be referred to in other posts or expanded on later.
