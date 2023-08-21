@@ -5,5 +5,5 @@ tags:
 - navigation
 - evergreen
 ---
-- [[Script - Why Nobody Speedruns]] - 
-- [[Script - Rng & Deterministic Engines]] - xyz
+- [[Script - Why Nobody Speedruns]]
+- [[Script - Rng & Deterministic Engines]] 
