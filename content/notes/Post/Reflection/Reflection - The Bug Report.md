@@ -17,6 +17,5 @@ That said, I don't know when or if I will make another. I feel like I used a lot
 
 I said I would only make a sequel anyway and continue the series if I knew it was going to be successful, meaning if the first one got a lot of views. Keissla and others mentioned that if I don't try a few times I won't really know, and trying once and giving up is kinda lame. While this is somewhat true, I already have another time sink available to try to make successful, the [[Main YouTube Channel]]. That channel has much more potential for me to make a variety of videos and do something new each time, than continuing a series and just doing the same thing again, and I believe it has a much greater potential to reach a larger audience as the Trackmania bug report requires you to be familiar with the culture surrounding Trackmania for it to be enjoyable and funny.
 
-
-
-
+---
+More: [Reflections](./tags/reflection)
