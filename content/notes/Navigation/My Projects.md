@@ -45,3 +45,5 @@ Another attempt at improving competitive Trackmania may return in the future wit
 - Sometimes streaming on [twitch.](https://www.twitch.tv/that_ski_freak) Might stream more in the future idk.
 - This website!
 - Pancake Land - Redacted.
+- Sometimes hosting Trackmania mapping competitions on the discord server.
+- I maintain a sorted collection of custom Trackmania blocks and items on github [here.](https://github.com/ski-freak/TrackmaniaItemsSorted)

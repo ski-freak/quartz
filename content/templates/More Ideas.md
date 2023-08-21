@@ -1,1 +1,2 @@
+---
 More: [Ideas](./tags/idea)

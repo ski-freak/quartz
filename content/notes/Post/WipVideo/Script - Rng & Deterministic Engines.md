@@ -86,3 +86,6 @@ Thanks for watching.
 
 A while back a friend on discord shared with me a concept for a card game in which it is the hidden information that prevents the game from being deterministic, rather than random cards. These long running card games really weren't designed to be played in a way where you have access to all your cards, and are completely broken when you do. Perhaps, if you designed a game explicitly around the choices and interactions between hidden but always available cards, you could make it work 
 {I should just cut this part as well, its kind of interesting but really doesn't fit, better to end at the end of the last block}
+
+---
+More: [Ideas](./tags/idea)
