@@ -129,7 +129,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     } else if (visited.has(d.id)) {
       return "var(--secondary)"
     } else {
-      return "var(--tertiary)"
+      return "var(--gray)"
     }
   }
 
