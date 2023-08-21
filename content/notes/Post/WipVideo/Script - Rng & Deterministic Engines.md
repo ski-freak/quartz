@@ -89,3 +89,5 @@ A while back a friend on discord shared with me a concept for a card game in whi
 
 ---
 More: [Work in Progress Videos](./tags/wipvideo)
+[All Posts](./tags/post)
+[[_index|Home]]

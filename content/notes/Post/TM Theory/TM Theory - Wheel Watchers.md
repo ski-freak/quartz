@@ -15,3 +15,5 @@ Now, even though I know this, I am still just as much of a perfectionist when it
 
 ---
 More: [TM Theory](./tags/tmtheory)
+[All Posts](./tags/post)
+[[_index|Home]]
