@@ -12,7 +12,7 @@ Moving forward I will be making some text posts / articles on this website. Here
 - [#Reflection](./tags/reflection) - Reflections is a series about looking back on videos and other projects of mine that have been completed.
 - [#TM Theory](./tags/tmtheory) - TM Theory is a series about my ideas and theories pertaining to Trackmania.
 - [#TheLens](./tags/thelens) - The Lens is a series where I look at, and possibly over or under analyze whatever is on my mind. Topics are likely to be related to technology, the social landscape of the internet, and youtube.
-- [#Post](./tags/post) - All the posts in one chronological feed.
+- [#Post](./tags/post) - All the posts in one chronological feed. May also include small posts from the [#Idea](./tags/idea) tag.
 
 ---
 # [[Main YouTube Channel]]
@@ -49,4 +49,5 @@ Another attempt at improving competitive Trackmania may return in the future wit
 ---
 # A list of smaller things:
 - I keep a [playlist of cool youtube videos](https://www.youtube.com/playlist?list=PLLrcnPKLZ__j3Spdl99pKYed1x0sECaPa), if you're starved for video content, maybe check it out. If I think a video is really good, I add it!
+- Sometimes streaming on [twitch.](https://www.twitch.tv/that_ski_freak) Might stream more in the future idk.
 - Pancake Land - Redacted.
