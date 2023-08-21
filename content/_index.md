@@ -21,7 +21,7 @@ You may know me from one of my self titled youtube channels or Trackmania mappin
 - [TM Theory](./tags/tmtheory) - TM Theory is a series about my ideas, opinions, and theories pertaining to Trackmania.
 - [WIP Video](./tags/wipvideo) - Work in progress video scripts. I put these here to share with others to get feedback, usually via links. If you have insight on or are otherwise rather knowledgeable on the topic of any of these, feel free to send me a message on discord (@skifreak). I can always use more information, fact checking, or ideas for interesting things to include.
 
-Posts that don't fit into any of these can be found under the [#Post](./tags/post) tag as well, including some small ones also going by the idea tag. 
+Posts that don't fit into any of these can still be found under the [#Post](./tags/post) tag, including some small ones also going by the idea tag. 
 
 It's possible I will make some of these text posts into videos at some point, but editing little videos is kind of annoying to me. I like editing videos where I am trying to make the best thing I can, not just trying to get through the tedious process since all of the important decisions have already been made when writing. I guess if I find someone who would want to edit for a percentage of the single digit revenues the videos generate that could work out.
 
