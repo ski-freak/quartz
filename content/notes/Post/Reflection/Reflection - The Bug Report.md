@@ -7,6 +7,7 @@ tags:
 - reflection
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UpCjpqUpdPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 So last weekend I had a very specific and very silly idea: make a video complaining about trackmania bugs in the style of a news report, and call it the Bug Report. This idea was derivative of an earlier one, where someone asked me my least favorite editor bugs and I proceeded to list 20 of them in twitch chat, and say I should make it into a youtube video of me yelling about all of them. The difference with this new concept was that it would be focused far more on actual jokes than just the inherent comedy of someone being very animated and upset about obscure things.
 
 Anyway I proceeded to write a bunch of random silly shit, and read it out in a vaguely authoritative voice. This went by rather quickly, I wrote the script very quickly and it was rather short, and I've gotten much much better at recording voiceover over the last year. Editing took many hours however, as is probably expected.
