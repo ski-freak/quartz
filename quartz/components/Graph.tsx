@@ -28,7 +28,7 @@ const defaultOptions: GraphOptions = {
     scale: 1.5,
     repelForce: 0.5, // was .5
     centerForce: 0.3,
-    linkDistance: 50,
+    linkDistance: 46,
     fontSize: 0.5,
     opacityScale: 4,
   },

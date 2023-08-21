@@ -6,4 +6,4 @@ Work in progress video scripts. I put these here to share with others to get fee
 
 - A list of only the [[Current WIP Videos]] can be found here.
 
-[See all tags →](/tags)
+[See all tags →](/tags/)
