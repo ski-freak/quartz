@@ -4,7 +4,7 @@ enableToc:
 tags:
 - ideas
 ---
-My 'main' YouTube channel is currently the project I take the most seriously, or rather care about the most. I'm making videos that I think are interesting, not tied to any format or topic, and trying to get better at it. The videos ideally should all be understandable by a general audience, and not require any previous knowledge on the subjects. ^ncko0b
+My 'main' YouTube channel is currently the project I take the most seriously, or rather care about the most. I'm making videos that I think are interesting, not tied to any format or topic, and trying to get better at it. The videos ideally should all be understandable by a general audience, and not require any previous knowledge on the subjects.
 
 You can find the channel [here.](https://www.youtube.com/@Ski_Freak)
 
