@@ -88,4 +88,4 @@ A while back a friend on discord shared with me a concept for a card game in whi
 {I should just cut this part as well, its kind of interesting but really doesn't fit, better to end at the end of the last block}
 
 ---
-More: [Ideas](./tags/idea)
+More: [Work in Progress Videos](./tags/wipvideo)
