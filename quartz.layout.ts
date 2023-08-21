@@ -37,5 +37,5 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
   ],
-  right: [Component.Graph()],
+  right: [],
 }
