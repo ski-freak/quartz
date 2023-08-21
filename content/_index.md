@@ -39,6 +39,7 @@ I host a few different things on this site, and they are sorted by tags:
 - You can find a [full list of tags here](/tags/), if you would like to find posts on certain topics.
 - You can use *ctrl + k* to easily open up the search function, which can search both the names and contents of pages on this site.
 - Each page also has *backlinks* and a *graph view*. Backlinks show you all other pages on the site that mention the one you are currently on. The graph view shows all related pages in a cool little graph. It's also a nice fidget toy.
+- In the corner of the graph view there is a button that opens the global graph, which graphs all pages on this site!
 
 ---
 ### Find me on other platforms:
