@@ -2,7 +2,7 @@
 title: "TM Theory - Nadeo Campaign Issues Disambiguated"
 enableToc: 
 tags:
-- post
+- posts
 - tmtheory
 ---
 This was originally written to be a video, but I never bothered to record and edit it. It is still useful and I want to post it here, as it is a complete overview and argument as to why (I think) the nadeo seasonal campaigns are bad, why nadeo does it on purpose, and what they could do to be better.

@@ -1,2 +1,2 @@
 ---
-More: [Ideas](./tags/idea)
+More: [Ideas](./tags/ideas)

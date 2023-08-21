@@ -1,6 +1,7 @@
 ---
 title: "My Projects"
 enableToc: true
+noindex: true
 tags:
 - navigation
 - evergreen

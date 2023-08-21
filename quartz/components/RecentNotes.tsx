@@ -14,7 +14,7 @@ interface Options {
 }
 
 const defaultOptions: Options = {
-  title: "Recent Notes",
+  title: "Recent Posts",
   limit: 3,
   linkToMore: false,
   filter: () => true,

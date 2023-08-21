@@ -1,2 +1,2 @@
 ---
-More: [Reflections](./tags/reflection)
+More: [Reflections](./tags/reflections)

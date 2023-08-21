@@ -2,7 +2,7 @@
 title: "TM Theory - Wheel Watchers"
 enableToc: 
 tags:
-- post
+- posts
 - tmtheory
 ---
 Do you find that other people's maps look... smoother? Like they build the same jumps and transitions, and yet when you play them it just seems like on their map the same block combinations just work better? If so, you may be a wheel watcher.

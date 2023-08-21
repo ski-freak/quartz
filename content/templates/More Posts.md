@@ -1,2 +1,2 @@
 ---
-More: [Posts](./tags/post)
+More: [Posts](./tags/posts)
