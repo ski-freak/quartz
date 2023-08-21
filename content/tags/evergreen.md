@@ -1,6 +1,6 @@
 ---
 title: "Evergreen"
 ---
-These are notes that are always relevant and kept up to date.
+Evergreen pages are always kept up to date. Unless I forget.
 
 [See all tags →](/tags/)
