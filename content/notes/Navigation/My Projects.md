@@ -7,11 +7,11 @@ tags:
 ---
 I'm using the word project rather loosly here, basically any ongoing interest that involves me making something, along with actual projects.
 
-# [[Articles & Posts]]
+# This Website
 Moving forward I will be making some text posts / articles on this website. Here are some series I am making:
-- [#Reflection](./tags/reflection) - Reflections is a series about looking back on videos and other projects of mine that have been completed.
-- [#TM Theory](./tags/tmtheory) - TM Theory is a series about my ideas and theories pertaining to Trackmania.
-- [#TheLens](./tags/thelens) - The Lens is a series where I look at, and possibly over or under analyze whatever is on my mind. Topics are likely to be related to technology, the social landscape of the internet, and youtube.
+- [Reflections](./tags/reflection) - Reflections is a series about looking back on videos and other projects of mine that have been completed.
+- [The Lens](./tags/thelens) - The Lens is a series where I look at, and possibly over or under analyze whatever is on my mind. Topics are likely to be related to technology, the social landscape of the internet, and youtube.
+- [TM Theory](./tags/tmtheory) - TM Theory is a series about my ideas and theories pertaining to Trackmania.
 - [#Post](./tags/post) - All the posts in one chronological feed. May also include small posts from the [#Idea](./tags/idea) tag.
 
 ---

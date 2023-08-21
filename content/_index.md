@@ -7,11 +7,20 @@ tags:
 ---
 # Hello!
 I'm SkiFreak, I'm now using this as my website, blog, and place for work in progress projects/video scripts. I like making things on the internet, and you can find it all here (or at least links).
-## Start Here:
-Here are some places you may want to visit.
-- [[About Me]] 
+
+You may know me from one of my self titled youtube channels or Trackmania mapping. My interests include technology related stuff, video games, card games, making videos, mapping in trackmania, skiing, & mountain biking.
+
 - [[My Projects]] - Projects and things I'm trying to make happen.
-- [[My Best Work]] - A showcase of my favorite things I've made on the internet, videos & more!
+
+---
+> [!note] Articles & series on this site:
+
+- [Reflections](./tags/reflection) - Reflections is a series about looking back on videos and other projects of mine that have been completed.
+- [The Lens](./tags/thelens) - The Lens is a series where I look at, and possibly over or under analyze whatever is on my mind. Topics are likely to be related to technology, the social landscape of the internet, and youtube.
+- [TM Theory](./tags/tmtheory) - TM Theory is a series about my ideas, opinions, and theories pertaining to Trackmania.
+- [#Post](./tags/post) - All the posts in one chronological feed. May also include small posts from the [#Idea](./tags/idea) tag.
+
+It's possible I will make some of these into videos at some point, but editing little videos is kind of annoying to me. I like editing videos where I am trying to make the best thing I can, not just trying to get through the tedious process since all of the important decisions have already been made when writing. I guess if I find someone who would want to edit for a percentage of the single digit revenues the videos generate that could work out.
 
 ---
 > [!example] Tags
