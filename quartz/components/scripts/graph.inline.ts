@@ -127,9 +127,9 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     if (isCurrent) {
       return "#f58382"
     } else if (visited.has(d.id)) {
-      return "var(--tertiary)"
+      return "var(--secondary)"
     } else {
-      return "var(--gray)"
+      return "var(--tertiary)"
     }
   }
 
