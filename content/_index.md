@@ -17,8 +17,8 @@ You may know me from one of my self titled youtube channels or Trackmania mappin
 > [!note] Articles & series on this site
 
 - [Reflections](./tags/reflections) - Reflections is a series about looking back on videos and other projects of mine that have been completed.
-- [The Lens](./tags/thelens) - The Lens is a series where I look at, and possibly over or under analyze whatever is on my mind. Topics are likely to be related to technology, the social landscape of the internet, and youtube.
 - [TM Theory](./tags/tmtheory) - TM Theory is a series about my ideas, opinions, and theories pertaining to Trackmania.
+- [The Lens](./tags/thelens) - The Lens is a series where I look at, and possibly over or under analyze whatever is on my mind. Topics are likely to be related to technology, the social landscape of the internet, and youtube.
 - [WIP Video](./tags/wipvideo) - Work in progress video scripts. I put these here to share with others to get feedback, usually via links. If you have insight on or are otherwise rather knowledgeable on the topic of any of these, feel free to send me a message on discord (@skifreak). I can always use more information, fact checking, or ideas for interesting things to include.
 
 Posts that don't fit into any of these can still be found under the [#Posts](./tags/posts) tag, including some small ones also going by the ideas tag. 
