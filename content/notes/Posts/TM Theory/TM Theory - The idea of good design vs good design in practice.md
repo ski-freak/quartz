@@ -19,6 +19,7 @@ Now, here is the theory: nadeo is not optimizing for viewer experience or the qu
 
 *{According to ender's sources, hylis allegedly built map 25. It is, notably, the first campaign made after hylis returned from vacation / administrative leave / not entirely sure for 2 years.) I have no way of confirming or denying whether he made this map or any campaign maps, but since it is a rumor going around I figured I would mention that I don't think it has a significant impact on the point of this post, for the reasons I described in the second paragraph.}*
 
+*Example 2:*
 There are also a number of campaign maps that use this gimmick of placing a whole bunch of finish rings.
 
 *Summer 2023 map 15:*
