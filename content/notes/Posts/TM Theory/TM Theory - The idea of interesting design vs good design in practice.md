@@ -3,7 +3,7 @@ title: "TM Theory - The idea of interesting design vs good design in practice"
 enableToc: 
 tags:
 - tmtheory
-- post
+- posts
 ---
 I've seen a lot of commentary over the last few years from both nadeo and trackmania players about what the design of different maps focus on such as campaign or tmgl/tmwt maps, often referring to viewers being important or new players being important or something else. However, the design decisions never really seem to align with either of these goals, especially the latter. In this post, I will propose an alternate model/reason for why nadeo makes the design decisions they do, that I think explains more accurately their actions.
 
