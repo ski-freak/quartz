@@ -1,6 +1,7 @@
 ---
 title: "TM Theory - The idea of good design vs good design in practice"
 enableToc: 
+date: 2023-08-25
 tags:
 - tmtheory
 - posts
