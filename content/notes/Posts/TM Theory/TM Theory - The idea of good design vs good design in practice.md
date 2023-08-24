@@ -1,5 +1,5 @@
 ---
-title: "TM Theory - The idea of interesting design vs good design in practice"
+title: "TM Theory - The idea of good design vs good design in practice"
 enableToc: 
 tags:
 - tmtheory
