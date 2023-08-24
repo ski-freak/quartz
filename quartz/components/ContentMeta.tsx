@@ -8,8 +8,8 @@ export default (() => {
     if (text) {
       const segments: string[] = []
       const { text: timeTaken, words: _words } = readingTime(text)
-      if (fileData.dates?.created) {
-        segments.push(formatDate(fileData.dates.created))
+      if (fileData.dates?.modified) { //created
+        segments.push(formatDate(fileData.dates.modified)) //created
       }
 
       segments.push(timeTaken)
