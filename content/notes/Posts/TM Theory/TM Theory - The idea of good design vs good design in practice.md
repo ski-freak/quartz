@@ -22,8 +22,10 @@ Now, here is the theory: nadeo is not optimizing for viewer experience or the qu
 There are also a number of campaign maps that use this gimmick of placing a whole bunch of finish rings.
 
 *Summer 2023 map 15:*
+
 ![[Pasted image 20230823201030.png|500]]
 *Summer 2023 map 18:*
+
 ![[Pasted image 20230823201152.png|500]]
 ![[Pasted image 20230823201257.png|500]]
 
