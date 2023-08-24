@@ -34,3 +34,6 @@ Map 15 has a bunch of finishes at a weird angle, it is unclear why there are so 
 Now, why would nadeo make anything like these examples? Or 2 bumpy road loops in a row, or some goofy reactor flight section where you flip half the time? It doesn't make sense for players of any experience or skill level. The real reason: these things are interesting *in theory!* If you were to just sit down and think about *the idea of playing* a racing game with this stuff, it may seem novel and certainly has a specific vibe. Nadeo is not optimizing for the actual experience of new players playing these maps, or viewers viewing them, or good players hunting them for 3 months, or players playing them in matchmaking or tournaments, because they are optimizing for the idea of playing them, not actually playing them.
 
 At least, that's the theory. I have no idea what is actually going through the minds of the nadeo employees making these decisions, but this motivation seems to explain why they do the things they do better than just 'it's for the console players!!!', or any other motiv provided by nadeo or the players base, in my opinion.
+
+---
+More: [TM Theory](./tags/tmtheory)
