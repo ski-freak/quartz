@@ -70,7 +70,7 @@ In order for a physics engine to be deterministic, it needs to not use floating 
 
 This information is impossible to turn into any statement that I can be sure is correct, I don't know what to do. Here are some links that seemed relatively useful.
 - https://www.reddit.com/r/learnprogramming/comments/7h0b4f/why_isnt_the_unity_physics_engine_deterministic/
-- [stevestreeting link](https://www.stevestreeting.com/2020/07/26/using-bullet-for-physics-in-ue4/#:~:text=UE%20uses%20PhysX%20(like%20Unity,in%20a%20fixed%2C%20repeatable%20order)
+- `https://www.stevestreeting.com/2020/07/26/using-bullet-for-physics-in-ue4/#:~:text=UE%20uses%20PhysX%20(like%20Unity,in%20a%20fixed%2C%20repeatable%20order`
 - https://stackoverflow.com/questions/7365790/how-can-floating-point-calculations-be-made-deterministic
 - https://forum.unity.com/threads/physx-determinism.127300/
 
