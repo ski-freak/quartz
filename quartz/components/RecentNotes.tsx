@@ -14,8 +14,8 @@ interface Options {
   sort: (f1: QuartzPluginData, f2: QuartzPluginData) => number
 }
 
-const defaultOptions: Options = {
-  title: "Recent Posts",
+const defaultOptions = (cfg: GlobalConfiguration): Options => ({
+  title: "Recent Notes",
   limit: 3,
   linkToMore: false,
   filter: () => true,
