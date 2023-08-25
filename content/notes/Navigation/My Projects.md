@@ -1,7 +1,7 @@
 ---
 title: "My Projects"
 enableToc: true
-noindex: true
+date: 2023-08-22
 tags:
 - navigation
 - evergreen

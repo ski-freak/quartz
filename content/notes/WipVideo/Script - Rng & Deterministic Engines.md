@@ -1,6 +1,7 @@
 ---
 title: "Script - Rng & Deterministic Engines"
 enableToc: false
+date: 2023-08-22
 tags:
 - wipvideo
 ---

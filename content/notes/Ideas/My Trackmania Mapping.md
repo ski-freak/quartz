@@ -1,6 +1,7 @@
 ---
 title: "My Trackmania Mapping"
 enableToc: 
+date: 2023-08-22
 tags:
 - ideas
 ---

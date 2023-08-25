@@ -1,6 +1,7 @@
 ---
 title: "Reflection - The Bug Report"
 enableToc: false
+date: 2023-08-23
 tags:
 - video
 - posts

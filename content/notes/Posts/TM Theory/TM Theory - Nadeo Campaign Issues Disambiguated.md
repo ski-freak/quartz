@@ -1,6 +1,7 @@
 ---
 title: "TM Theory - Nadeo Campaign Issues Disambiguated"
 enableToc: 
+date: 2023-08-22
 tags:
 - posts
 - tmtheory
