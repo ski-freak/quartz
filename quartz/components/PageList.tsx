@@ -4,6 +4,7 @@ import { Date, getDate } from "./Date"
 import { QuartzComponentProps } from "./types"
 import { GlobalConfiguration } from "../cfg"
 
+<<<<<<< Updated upstream
 export function byDateAndAlphabetical(
   cfg: GlobalConfiguration,
 ): (f1: QuartzPluginData, f2: QuartzPluginData) => number {
@@ -22,6 +23,17 @@ export function byDateAndAlphabetical(
     const f1Title = f1.frontmatter?.title.toLowerCase() ?? ""
     const f2Title = f2.frontmatter?.title.toLowerCase() ?? ""
     return f1Title.localeCompare(f2Title)
+=======
+export function byDateAndAlphabetical(f1: QuartzPluginData, f2: QuartzPluginData): number {
+  if (f1.dates && f2.dates) {
+    // sort descending by last modified
+    return f2.dates.created.getTime() - f1.dates.modified.getTime() //dates.created
+  } else if (f1.dates && !f2.dates) {
+    // prioritize files with dates
+    return -1
+  } else if (!f1.dates && f2.dates) {
+    return 1
+>>>>>>> Stashed changes
   }
 }
 
@@ -46,7 +58,11 @@ export function PageList({ cfg, fileData, allFiles, limit }: Props) {
             <div class="section">
               {page.dates && (
                 <p class="meta">
+<<<<<<< Updated upstream
                   <Date date={getDate(cfg, page)!} />
+=======
+                  <Date date={page.dates.created} />
+>>>>>>> Stashed changes
                 </p>
               )}
               <div class="desc">
