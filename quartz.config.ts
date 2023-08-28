@@ -31,7 +31,7 @@ const config: QuartzConfig = {
 //          currentgraph: "#f28482",
         },
         darkMode: {
-          light: "#161618",
+          light: "#191b22", // 161618
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
