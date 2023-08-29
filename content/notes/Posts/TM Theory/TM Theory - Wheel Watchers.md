@@ -12,7 +12,7 @@ The concept here is that when you are playing a map you are looking at where you
 
 Now, even though I know this, I am still just as much of a perfectionist when it comes to landings. Even so, I think it is useful to understand the biases at play here and know that your perception may be warped. In some cases you may  want to realize that what you built actually drives perfectly fine and you're just being a wheel watcher.
 
-
+Perspective can trick us into believing things are slightly different from how they are in reality, don't forget that. It comes up time and time again even in trackmania.
 
 ---
 More: [TM Theory](./tags/tmtheory)
