@@ -43,9 +43,8 @@ Another attempt at improving competitive Trackmania may return in the future wit
 
 ---
 # A list of smaller things:
-- I keep a [playlist of cool youtube videos](https://www.youtube.com/playlist?list=PLLrcnPKLZ__j3Spdl99pKYed1x0sECaPa), if you're starved for video content, maybe check it out. If I think a video is really good, I add it!
+- I keep a [playlist of cool youtube videos](https://www.youtube.com/playlist?list=PLLrcnPKLZ__j3Spdl99pKYed1x0sECaPa). If you're starved for video content, maybe check it out. If I think a video is really good, I add it!
 - Sometimes streaming on [twitch.](https://www.twitch.tv/that_ski_freak) Might stream more in the future idk.
 - This website!
-- Pancake Land - Redacted.
-- Sometimes hosting Trackmania mapping competitions on the discord server.
+- Sometimes hosting Trackmania mapping competitions in the discord server.
 - I maintain a sorted collection of custom Trackmania blocks and items on github [here.](https://github.com/ski-freak/TrackmaniaItemsSorted)
