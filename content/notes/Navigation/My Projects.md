@@ -32,14 +32,16 @@ For the last few years Trackmania has been my main game, mostly because I enjoy 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41bWwJs7F9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-# Project Gamma
+# [[Project Gamma]]
 Project Gamma is a drafting card game / custom cube I have been working on with a few others. I will make more information available when the game is ready to be played at least in a beta state. If you would like to help with the design of the game mechanics, the cards (we need 360), or visuals, feel free to reach out.
 
 ---
-# Project Delta
+# [[Project Delta]]
 Project Delta is a Trackmania event hosting group run by me, CD, and Nixotica. The goal was a return to form in Trackmania competitions, however, as the competitive tm landscape has shifted over time that seems to have become less attainable, and we have lost some amount of motivation. We still run the Delta KO however, which is a fun seasonal endurance knockout competition where half of all players are knocked out each round on 6-10 minute tracks.
 
 Another attempt at improving competitive Trackmania may return in the future with more NCSA regional events (north and south america). You can join the discord servers for [Project Delta](https://discord.gg/Nj2rDjqQPh) and [NCSA Events](https://discord.gg/kSgbTT9eqQ).
+
+![[deltalogosquarewbackground.png|300]]
 
 ---
 # A list of smaller things:
