@@ -18,7 +18,7 @@ You can find the channel [here.](https://www.youtube.com/@Ski_Freak)
 
 ---
 # [[SkiFreakTM Channel]] 
-Currently functioning as my second channel. Originally made for scripted trackmania content, since my focus shifted to the new [[Main YouTube Channel]]. Moving forward I am posting basically anything that I want to make that doesn't fit on the main channel here, so probably trackmania commentary and shower thought tier videos, along with anything goofy I come up with.
+Currently functioning as my second channel. Originally made for scripted trackmania content, since then my focus shifted to the new [[Main YouTube Channel]]. Moving forward I am posting basically anything that I want to make that doesn't fit on the main channel here, so probably trackmania commentary and shower thought tier videos, along with anything goofy I come up with.
 
 You can find the channel [here.](https://www.youtube.com/@SkiFreakTM)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0sJ4nknmpvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
