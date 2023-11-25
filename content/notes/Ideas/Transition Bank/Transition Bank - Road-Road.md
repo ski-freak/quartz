@@ -17,15 +17,11 @@ tags:
 
 ![[q-rr (16).png]]
 
-![[q-rr (17).png]]
-
 ![[q-rr (18).png]]
 
 ![[q-rr (19).png]]
 
 ![[q-rr (20).png]]
-
-![[q-rs (4).png]]
 
 ![[q-rr (8).png]]
 

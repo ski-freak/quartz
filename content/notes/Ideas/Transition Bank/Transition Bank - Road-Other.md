@@ -11,3 +11,5 @@ tags:
 ![[q-ro (3).png]]
 
 ![[q-ro (2).png]]
+
+![[q-rr (17).png]]
