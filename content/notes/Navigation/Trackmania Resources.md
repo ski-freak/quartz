@@ -13,11 +13,13 @@ tags:
 
 
 ## TM Transition Bank
-Just a collection of images of interesting transitions and jumps. If you have one I should add, just send me an image of it on discord @skifreak.
+Just a collection of images of interesting transitions and jumps. Should be pretty useful since it seems that a lot of transitions seem to get forgotten and almost never used while a few are very common and used all the time.
 
+- If you have a transition I should add, just send me an image of it on discord @skifreak.
 - Only on grid transitions, items allowed.
 - Lmk if there are any duplicates and I'll remove them.
-- The page names are based on height/block type, not surface or level of banking. It should be obvious what this means when you start looking. Oh and 
+- The page names are based on height/block type, not surface or level of banking. It should be obvious what this means when you start looking.
+- I'd like to avoid adding 15 slightly different versions of the same transition.
 ---
 - [[Transition Bank - Road-Road]]
 - [[Transition Bank - Road-2m]]
