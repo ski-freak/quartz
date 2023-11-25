@@ -7,7 +7,7 @@ tags:
 ---
 Project Gamma is a drafting and deck building card game for 2-8 players with a focus on varied, open ended deckbuilding, player agency, and interactive back and forth gameplay. It can be played as either a cube draft or constructed with decks made by players before the game. It will feature 360 cards when finished, although we may make further expansions if people enjoy it.
 
-Each player starts at 20 life and you will attack your opponent with units, spells, and more to try to kill them. The game features 5 realms, diff card types, etc, etc.
+In games you will play units and attack your opponent to reduce their life to 0 (starting at 20), but within this there is a lot of room for different strategies! The game is played in a dynamic shared round system, and seeks to reduce non-games to a minimum. You will look to leverage hidden information, tempo, and card advantage to overcome your opponent and win the game.
 
 Some unique aspects of the core game mechanics:
 - All cards in Project Gamma are actually 2 cards in one, and when you play a card you get to pick which half you are playing. This allows for more options when playing and deckbuilding, as well as for the ability to have more available archetypes in draft.

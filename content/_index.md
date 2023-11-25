@@ -12,21 +12,20 @@ I'm SkiFreak, I'm now using this as my website, blog, and place for work in prog
 You may know me from one of my self titled youtube channels or Trackmania mapping. My interests include technology related stuff, video games, card games, making videos, mapping in Trackmania, skiing, & mountain biking.
 
 - [[My Projects]] - Projects and things I'm trying to make happen.
+- [[Trackmania Resources]] - A list of the different trackmania resources on this site.
 - [All Posts](./tags/posts) - All posts/articles on this website in one chronological feed, under the posts tag. If you want to see what's going on here, look no further.
 
 ---
-> [!note] Articles & series on this site
+> [!note] Types of posts on this site
 
-- [Reflections](./tags/reflections) - Reflections is a series about looking back on videos and other projects of mine that have been completed.
-- [TM Theory](./tags/tmtheory) - TM Theory is a series about my ideas, opinions, and theories pertaining to Trackmania.
-- [The Lens](./tags/thelens) - The Lens is a series where I look at, and possibly over or under analyze whatever is on my mind. Topics are likely to be related to technology, the social landscape of the internet, and youtube.
+This is kind of just a place to quickly dump my thoughts, I don't put nearly as much time or effort into these as my youtube videos, and I mostly just write some shit down and call it done.
+- [Reflections](./tags/reflections) - Just me talking about videos and other projects I completed.
+- [TM Theory](./tags/tmtheory) - Trackmania chatting so I don't have to retype things over and over on discord.
 - [WIP Video](./tags/wipvideo) - Work in progress video scripts. I put these here to share with others to get feedback, usually via links. If you have insight on or are otherwise rather knowledgeable on the topic of any of these, feel free to send me a message on discord (@skifreak). I can always use more information, fact checking, or ideas for interesting things to include.
 
 Posts that don't fit into any of these can still be found under the [#Posts](./tags/posts) tag, including some small ones also going by the ideas tag. 
 
-Note that the writing on this site probably won't be all that great, this is kind of just a place to quickly dump my thoughts, I don't put nearly as much time or effort into these as my youtube videos, and I mostly just write some shit down and call it done.
-
-It's possible I will make some of these text posts into videos at some point, but editing little videos is kind of annoying to me. I like editing videos where I am trying to make the best thing I can, not just trying to get through the tedious process since all of the important decisions have already been made when writing. I guess if I find someone who would want to edit for a percentage of the single digit revenues the videos generate that could work out.
+It's possible I will make some of these text posts into videos at some point, but depending on the post editing could be quite annoying. I like editing videos where I am trying to make the best thing I can, not just trying to get through the tedious process since all of the important decisions have already been made when writing.
 
 ---
 > [!example] Tags
