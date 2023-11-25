@@ -1,7 +1,7 @@
 ---
 title: Transition Bank - Road -> Road
 enableToc: 
-date: ""
+date: 
 tags:
   - evergreen
   - ideas
