@@ -15,3 +15,5 @@ tags:
 ![[Pasted image 20231125181005.png]]
 
 ![[Pasted image 20231125181059.png]]
+
+![[Pasted image 20231125225958.png]]
