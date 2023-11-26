@@ -4,6 +4,7 @@ enableToc:
 date: 
 tags:
   - ideas
+  - tmresources
 ---
 - Guide by skybaxrider
 - [Video version](https://www.youtube.com/watch?v=BFpt_SpTjsc)

@@ -5,8 +5,11 @@ date: 2023-11-25
 tags:
   - evergreen
   - navigation
+  - tmresources
 ---
-You may need to use ctrl+f5 to force this page to update with newly added resources.
+This is an index of trackmania resources, especially for mapping, both on this site and external. 
+- If you're new here, you can search for pages across the site with ctrl +k, and return to related pages using the interactive graph on the right (although its kind of broken on this page specifically because it has so many links). For more info visit the main page.
+- You may need to use ctrl+f5 to force this page to update with newly added resources.
 
 # Mapping Resources:
 ### Files & Tools
