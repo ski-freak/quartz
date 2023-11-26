@@ -10,7 +10,7 @@ tags:
 This is an index of trackmania resources, especially for mapping, both on this site and external. 
 - If you're new here, you can search for pages across the site with ctrl +k, and return to related pages using the interactive graph on the right (although its kind of broken on this page specifically because it has so many links). For more info visit the main page.
 - You may need to use ctrl+f5 to force this page to update with newly added resources.
-
+---
 # Mapping Resources:
 ### Files & Tools
 - [Sorted Trackmania Item Set](https://github.com/ski-freak/TrackmaniaItemsSorted) - I maintain a sorted collection of custom Trackmania blocks and items on github. This has basically all the (route) custom items people use (very few scenery items).
@@ -44,6 +44,7 @@ This is an index of trackmania resources, especially for mapping, both on this s
 ### Fun stuff
 - I host mapping competitions monthly ish in my [discord](https://discord.gg/sRB54zg).
 
+---
 # TM Transition Bank
 Just a collection of images of interesting transitions and jumps. Should be pretty useful since it seems that a lot of transitions seem to get forgotten and almost never used while a few are very common and used all the time.
 
