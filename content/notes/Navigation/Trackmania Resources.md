@@ -17,9 +17,10 @@ Just a collection of images of interesting transitions and jumps. Should be pret
 
 - If you have a transition I should add, just send me an image of it on discord @skifreak.
 - Only on grid transitions, items allowed.
-- Lmk if there are any duplicates and I'll remove them.
+- Lmk of any errors such as duplicates or miscategorized transitions and I'll fix them.
 - The page names are based on height/block type, not surface or level of banking. It should be obvious what this means when you start looking.
 - I'd like to avoid adding 15 slightly different versions of the same transition.
+- You may need to use ctrl+f5 to force the pages to update with newly added images rather than just using your browser's cache.
 ---
 - [[Transition Bank - Road-Road]]
 - [[Transition Bank - Road-2m]]
