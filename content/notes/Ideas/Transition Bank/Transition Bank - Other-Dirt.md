@@ -7,3 +7,4 @@ tags:
   - ideas
 ---
 ![[q-od (2).png]]
+![[Pasted image 20231125180550.png]]

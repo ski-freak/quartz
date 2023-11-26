@@ -29,3 +29,9 @@ tags:
 ![[q-dr (4).png]]
 
 ![[q-dr (5).png]]
+
+![[Pasted image 20231125175507.png]]
+
+![[Pasted image 20231125180252.png]]
+
+![[Pasted image 20231125180306.png]]

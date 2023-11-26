@@ -49,3 +49,9 @@ tags:
 ![[q-sb (18).png]]
 
 ![[q-sb (2).png]]
+
+![[Pasted image 20231125174826.png]]
+
+![[Pasted image 20231125175039.png]]
+
+![[Pasted image 20231125175603.png]]

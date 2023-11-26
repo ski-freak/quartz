@@ -30,3 +30,18 @@ tags:
 ![[q-rr (10).png]]
 
 ![[q-rr (11).png]]
+![[Pasted image 20231125174901.png]]
+
+![[Pasted image 20231125174932.png]]
+
+![[Pasted image 20231125175552.png]]
+
+![[Pasted image 20231125175705.png]]
+
+![[Pasted image 20231125175809.png]]
+
+![[Pasted image 20231125180342.png]]
+
+![[Pasted image 20231125180637.png]]
+
+![[Pasted image 20231125180641.png]]

@@ -33,3 +33,7 @@ tags:
 ![[q-sr (2).png]]
 
 ![[q-sr (3).png]]
+
+![[Pasted image 20231125180203.png]]
+
+![[Pasted image 20231125180718.png]]
