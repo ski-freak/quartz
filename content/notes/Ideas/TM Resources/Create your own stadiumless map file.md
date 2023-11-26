@@ -4,7 +4,10 @@ enableToc:
 date: 
 tags:
   - ideas
+  - tmresources
 ---
+- Guide by Combi, edited by ski.
+
 **How to create a stadiumless map yourself:**
 
 1. Get the AllDecorationsUnlocker plugin for Openplanet from PluginManager
@@ -24,4 +27,4 @@ tags:
 7. Voilà! Your map is now stadiumless
 
 
-Tutorial by Combi, edited by ski.
+

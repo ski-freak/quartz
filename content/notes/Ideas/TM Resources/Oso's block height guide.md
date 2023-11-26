@@ -1,9 +1,9 @@
 ---
-title: ""
+title: Oso's block height guide
 enableToc: 
 date: 
 tags:
-- 
+  - ideas
 ---
 - Guide by Oso.
 

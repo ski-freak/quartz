@@ -1,9 +1,9 @@
 ---
-title: ""
+title: Skybaxrider's item alignment tech
 enableToc: 
 date: 
 tags:
-- 
+  - ideas
 ---
 - Guide by skybaxrider
 - [Video version](https://www.youtube.com/watch?v=BFpt_SpTjsc)
