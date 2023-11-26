@@ -7,10 +7,8 @@ tags:
   - navigation
 ---
 
-- [Sorted Trackmania Item Set](https://github.com/ski-freak/TrackmaniaItemsSorted) - I maintain a sorted collection of custom Trackmania blocks and items on github 
+- [Sorted Trackmania Item Set](https://github.com/ski-freak/TrackmaniaItemsSorted) - I maintain a sorted collection of custom Trackmania blocks and items on github. This has basically all the (route) custom items people use (very few scenery items).
 - [[TM Replay Render Settings]] - Information for rendering replays properly.
-
-
 
 ## TM Transition Bank
 Just a collection of images of interesting transitions and jumps. Should be pretty useful since it seems that a lot of transitions seem to get forgotten and almost never used while a few are very common and used all the time.
