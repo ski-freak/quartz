@@ -30,3 +30,5 @@ The bottom line I think is that if you care about player agency and not being 't
 ---
 
 Why did I decide to post my reddit comment to my website? I spent 30 minutes writing it and now I don't have to repeat myself in the future.
+
+More: [TM Theory](./tags/tmtheory)
