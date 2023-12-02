@@ -12,3 +12,4 @@ Note that not all of these will ever be finished, and they are of course not com
 
 - [[Script - Why Nobody Speedruns]]
 - [[Script - Rng & Deterministic Engines]] 
+- [[Script - What makes trackmania special and the nature of speedrunning]]
