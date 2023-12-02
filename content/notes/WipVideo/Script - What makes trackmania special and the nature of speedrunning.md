@@ -7,6 +7,11 @@ tags:
 ---
 The uniqueness of trackmania and the nature of speedrunning
 
+This is a video about how there is nothing else like trackmania, what makes it different than speedrunning & other games, and how that sucks because nadeo is bad. The differences from speedrunning may need a bit more fleshing out, any help with the script in general is appreciated.
+
+
+---
+
 Trackmania is a racing game. That's about the simplest and most obvious thing you can say about it, however I think it is also a terrible description that entirely misses the point of the game and what makes it stick for people {id like a better phrase here}. As far as I can tell the majority of trackmania's core playerbase doesn't even care about other racing games.
 
 Every once in a while someone who has never seen trackmania will stumble into a live stream of it and ask the same question: why are you driving the same race over and over? The answer is that trackmania is almost entirely based on time trials. There is almost never any external or random factor that affects your runs, and every input counts for saving just a little bit more time. It is a game about setting the fastest time you can on individual short, fast paced maps, and then going just a little bit faster. Trackmania is a speedrunning game.
