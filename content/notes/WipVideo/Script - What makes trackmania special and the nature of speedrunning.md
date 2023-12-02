@@ -9,6 +9,7 @@ The uniqueness of trackmania and the nature of speedrunning
 
 This is a video about how there is nothing else like trackmania, what makes it different than speedrunning & other games, and how that sucks because nadeo is bad. The differences from speedrunning may need a bit more fleshing out, any help with the script in general is appreciated.
 
+{as usual anything in curly brackets are notes not part of the script}
 
 ---
 
