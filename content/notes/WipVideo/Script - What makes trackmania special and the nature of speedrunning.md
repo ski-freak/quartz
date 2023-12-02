@@ -31,7 +31,7 @@ This means minimizing downtime and ensuring that the player is always doing some
 
 I love the trackmania map editor, I've made tons of maps and spent thousands of hours in it. It's so much fun to see what everyone else builds as well, the map editor honestly one of the main reasons I care so much about this game. With an endless supply of new and interesting user made maps, the focus shifts from endlessly optimizing a single run to instead playing and competing on a myriad of player made ones. {this is what I meant when I said you don't have to learn a single game's run and route, and instead become skilled with the game's mechanics in general}. 
 
-Without a single definitive leaderboard, trackmania players needed another way to compete to be the best at the game. Enter: cup mode and other live competitions.
+Without a single definitive leaderboard, trackmania players needed another way to compete to be the best at the game. Enter: cup mode and other live competitions. {maybe want more accurate words here, what could they be?}
 
 Most trackmania competitions are played in some form of a rounds mode, where in players compete in rounds driving times (without car collisions) on a map or series of maps until someone is the winner. It's essentially a series of many short speedrun races to determine who is the best. Note that most trackmania players just engage with the normal speedrunning gameplay loop as the primary mode, but this fills an important role for players who want to directly compete with others in a match setting.
 
