@@ -9,7 +9,7 @@ tags:
 Please consider following these guidelines when building for rounds based competitions. Mixed comp maps in particular seem to run into issues with them.
 
 - If the thing you built is unsafable (for the skill level of players in the competition you are submitting to), fix or delete it.
-- If the thing you built is clippy (platform gap, clippable transitions, for examples), fix or delete it.
+- If the thing you built is clippy (platform gap especially as an apex, clippable transitions, etc), fix or delete it.
 - Avoid situations where losing a gear causes the entire next part of the map to fall apart. This snowballing of gears (gearballing™) can often force players to full risk to keep difficult gears (unsafable situation), and makes rounds feel horrible when you fail to keep the gear. Having difficult gears is fine, I would say it's great, but make sure you ensure the next part is calculated even if you drop the gear.
 - Don't build blind precision sections/obstacles.
 - If a turn already has an entry, apex, and exit wall, you don't need to add more walls or objects. Having extra walls or random flags/lights/arrows that you can crash into if you take slightly different lines is unnecessary and annoying in many cases.
