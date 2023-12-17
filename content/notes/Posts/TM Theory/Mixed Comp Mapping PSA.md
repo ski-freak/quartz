@@ -6,7 +6,7 @@ tags:
   - post
   - tmtheory
 ---
-I DEMAND YOU FOLLOW THESE RULES IN MIXED MAPPING FOR ROUNDS BASED COMPETITIONS!!!
+Please consider following these guidelines when building for rounds based competitions. Mixed comp maps in particular seem to run into issues with them.
 
 - If the thing you built is unsafable (for the skill level of players in the competition you are submitting to), fix or delete it.
 - If the thing you built is clippy (platform gap, clippable transitions, for examples), fix or delete it.
@@ -15,14 +15,14 @@ I DEMAND YOU FOLLOW THESE RULES IN MIXED MAPPING FOR ROUNDS BASED COMPETITIONS!!
 - If a turn already has an entry, apex, and exit wall, you don't need to add more walls or objects. Having extra walls or random flags/lights/arrows that you can crash into if you take slightly different lines is unnecessary and annoying in many cases.
 - Avoid having multiple objects you can crash into at once in precision sections. It's not practical in rounds to constantly be paying attention to all 7 different walls you can hit at any given moment. Precision and narrow things are fine, but try not to expect the player to need to keep track of more than one at a time to pass through a section.
 
-If you think about tech competition maps, its always very clear what the road is doing, when you crash it's because you actually crashed in one of the turns. I'm really tired of mixed maps where I feel like I am crashing because there were some random objects in the road that I didn't even see or because there's 80 different things you can hit or clip. I'm really tired of sections that just feel like lottery in rounds because safing is not an option. And yes, skill issue may be an appropriate response in some situations, but keep in mind that a lot of competitions are intended to be played by people much worse at the game than me, so keep in mind who is actually expected to drive your map in rounds.
+If you think about tech competition maps, its (usually) always very clear what the road is doing. When you crash it's because you actually crashed in one of the turns. I'm really tired of mixed maps where I feel like I am crashing because there were some random objects in the road that I didn't even see or because there's 80 different things you can hit or clip. I'm really tired of sections that just feel like lottery in rounds because safing is not an option. And yes, skill issue may be an appropriate response in some situations, but keep in mind that a lot of competitions are intended to be played by people much worse at the game than me, so keep in mind who is actually expected to drive your map in rounds.
 
 ---
 Here are some examples:
 
 ![[Pasted image 20231216200937.png]]
 
-^ Example of a clippy transition. Note that this is a much smaller issue in cases where you do not need to risk for airtime next to the clip.
+^ A clippy transition. Note that this is a much smaller issue in cases where you do not need to risk for airtime next to the point of clipping.
 
 ![[Pasted image 20231216202400.png]]
 
