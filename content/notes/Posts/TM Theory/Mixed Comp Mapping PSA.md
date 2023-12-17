@@ -29,12 +29,11 @@ Here are some examples:
 ^ Here you need to go fast and risk in order to keep this gear, and if you don't keep it you are fucked when you gear up again because its within a grass turn. This gear, while not easy, would be completely fine if not for what comes after.
 
 ![[Pasted image 20231216200814.png]]
-
-^ This is a perfect example of blind precision with multiple objects and/or unnecessary walls. You must go around the checkpoint, but the actual thing you need to go around is the small structure thing behind the checkpoint, and if you miss that blind apex, you slam into a wall on the right afterwards (that you also can't see).
+^ Multiple objects and/or unnecessary walls. You must go around the checkpoint, but the actual thing you need to go around is the small structure thing behind the checkpoint, and if you miss that blind apex, you slam into a wall on the right afterwards (that you also can't see).
 
 ![[Pasted image 20231216201237.png]]
 
-^ Another example of lots of shit in the road. 
+^ Another example of lots of shit in the road (this is the middle of a drift). 
 
 ---
 More: [TM Theory](./tags/tmtheory)
