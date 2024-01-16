@@ -5,7 +5,7 @@ date:
 tags:
   - ideas
 ---
-Right click and copy url, then paste it into your in game signs/banners:
+Right click and copy url "copy image address", then paste it into your in game signs/banners. Files are hosted on dashmap.
 
 2x1 sign:
 
