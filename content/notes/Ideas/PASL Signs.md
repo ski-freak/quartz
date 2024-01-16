@@ -7,7 +7,7 @@ tags:
 ---
 Signs for the Pan American Solo League, made by Nixotica to fit with the Project Delta signpack.
 
-Copy the link below each image or right click and "copy image address", then paste it into your in game signs/banners. Files are hosted on dashmap.
+Right click and copy the url for an image "copy image address", then paste it into your in game signs/banners. Files are hosted on dashmap.
 
 2x1 sign:
 
