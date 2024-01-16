@@ -12,19 +12,17 @@ Copy the link below each image or right click and "copy image address", then pas
 2x1 sign:
 
 <img src="https://download.dashmap.live/dadbaf28-e7b5-429b-bf37-8c8c1419fcf4/2x1PASLLogoText.png">
-`https://download.dashmap.live/dadbaf28-e7b5-429b-bf37-8c8c1419fcf4/2x1PASLLogoText.png`
 
 4x1 sign:
 
 <img src="https://download.dashmap.live/dadbaf28-e7b5-429b-bf37-8c8c1419fcf4/4x1PASLLogoText.png">
-`https://download.dashmap.live/dadbaf28-e7b5-429b-bf37-8c8c1419fcf4/4x1PASLLogoText.png`
 
 6x1 checkpoint banner (logo):
 
 <img src="https://download.dashmap.live/dadbaf28-e7b5-429b-bf37-8c8c1419fcf4/6x1PASLLogo.png">
-`https://download.dashmap.live/dadbaf28-e7b5-429b-bf37-8c8c1419fcf4/6x1PASLLogo.png`
 
 6x1 checkpoint banner (text):
 
 <img src="https://download.dashmap.live/dadbaf28-e7b5-429b-bf37-8c8c1419fcf4/6x1PASLText.png">
-`https://download.dashmap.live/dadbaf28-e7b5-429b-bf37-8c8c1419fcf4/6x1PASLText.png`
+
+Arrows and other signs are in the [Project Delta Signpack.](https://download.dashmap.live/dadbaf28-e7b5-429b-bf37-8c8c1419fcf4/ProjectDeltaCompleteSignPackJanuary2023.zip)
