@@ -1,7 +1,7 @@
 ---
 title: TM Theory - Comparing Competition maps to TOTD
 enableToc: 
-date: 2024-12-25
+date: 2024-01-25
 tags:
   - posts
   - tmtheory
