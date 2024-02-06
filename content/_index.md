@@ -25,7 +25,7 @@ This is kind of just a place to quickly dump my thoughts, I don't put nearly as 
 
 Posts that don't fit into any of these can still be found under the [#Posts](./tags/posts) tag, including some small ones also going by the ideas tag. 
 
-It's possible I will make some of these text posts into videos at some point, but depending on the post editing could be quite annoying. I like editing videos where I am trying to make the best thing I can, not just trying to get through the tedious process since all of the important decisions have already been made when writing.
+Really the main point of this site existing is so I can write shit down once and then not repeat myself in Discord or Twitch chat. It's possible I will make some of these text posts into videos at some point, but depending on the post editing could be quite annoying. I like editing videos where I am trying to make the best thing I can, not just trying to get through the tedious process since all of the important decisions have already been made when writing.
 
 ---
 > [!example] Tags
