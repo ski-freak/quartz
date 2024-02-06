@@ -3,8 +3,8 @@ title: TM Theory - TM Has No Player Interaction
 enableToc: 
 date: 2023-12-17
 tags:
-  - post
   - tmtheory
+  - posts
 ---
 I wrote this a long time ago as a script for a short video. It is missing more recent things I have thought of so is not a complete picture (of my view of this), but it gets 80% of the point across. Enjoy!
 

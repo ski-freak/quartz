@@ -3,8 +3,8 @@ title: Mixed Comp Mapping PSA / Rant
 enableToc: 
 date: 2023-12-16
 tags:
-  - post
   - tmtheory
+  - posts
 ---
 Please consider following these guidelines when building for rounds based competitions. Mixed comp maps in particular seem to run into issues with them.
 
