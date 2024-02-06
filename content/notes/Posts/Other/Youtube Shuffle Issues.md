@@ -14,3 +14,6 @@ This can be solved by instead when the user opens up the playlist and selects sh
 This is what https://playlist-randomizer.com/ does (it's also open source bwoah) which I end up just using instead of youtube shuffle. I am less certain of what spotify is doing but it may be something similar. I know spotify mobile (at least the free one) definitely plays the same songs over and over and it seems like a very similar issue to youtube's.
 
 Anyway the only thing that I am certain of is that youtube shuffle is/was broken, and the randomizer website fixes it.
+
+---
+More: [Posts](./tags/posts)
