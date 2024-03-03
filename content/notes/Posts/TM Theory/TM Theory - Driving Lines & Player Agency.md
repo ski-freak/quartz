@@ -6,6 +6,9 @@ tags:
   - posts
   - tmtheory
 ---
+I use words poorly here, player agency is probably not the best phrasing for example. As usual with this website, don't expect anything more than stream of consciousness Chatting.
+
+---
 Today an interesting post from the trackmania subreddit was linked in discord, and I have thoughts on the topic so I took the chance to write a response that covers how I feel about it.
 
 The reddit post talks about how trackmania maps are designed with a specific line and actions from the player in mind, and essentially as far as I can tell the poster dislikes that this takes agency away from the player in choosing how to interact with the map, and it feels like you are just being told what to do and trying to execute on it. I recommend reading it before my response.
