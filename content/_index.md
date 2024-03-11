@@ -7,7 +7,7 @@ tags:
 - evergreen
 ---
 # Hello!
-I'm SkiFreak, I'm now using this as my website, blog, and place for work in progress projects/video scripts. I like making things on the internet, and you can find it all here (or at least links).
+I'm SkiFreak. I'm now using this as my website, blog, and place for work in progress projects/video scripts. I like making things on the internet, and you can find it all here (or at least links).
 
 You may know me from one of my self titled youtube channels or Trackmania mapping. My interests include technology related stuff, video games, card games, making videos, mapping in Trackmania, skiing, & mountain biking.
 
