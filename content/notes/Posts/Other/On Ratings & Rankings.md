@@ -33,5 +33,10 @@ Anyway if you have any good ideas dm me on discord @skifreak.
 
 Edit: You would probably also want a way of saying something has a margin of error but only really in one direction, like you may want to put it higher but definitely not lower, for example.
 
+#### Suggestions recieved:
+Agrabou:
+- There's ways you can do a large set of 1v1 direct comparisons between maps and end up with an ordered ranking based on your answers.
+I would think that would lead to easier decisions only because it lets you make decisions you would otherwise think might be wrong or be unable to decide on. I think this would be useful for making an initial list to then edit though.
+
 ---
 More: [Posts](./tags/posts)
