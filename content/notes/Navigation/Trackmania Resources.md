@@ -14,7 +14,8 @@ This is an index of trackmania resources, especially for mapping, both on this s
 # Mapping Resources:
 
 
-### [[TM Transition Bank]]
+### TM Transition Bank
+- [[TM Transition Bank]]
 - Probably what you are looking for :)
 ### Files & Tools
 - [Sorted Trackmania Item Set](https://github.com/ski-freak/TrackmaniaItemsSorted) - I maintain a sorted collection of custom Trackmania blocks and items on github. This has basically all the (route) custom items people use (very few scenery items).
