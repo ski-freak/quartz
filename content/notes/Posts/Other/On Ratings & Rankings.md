@@ -30,3 +30,6 @@ Maybe you can make a kind of three dimensional tier list to represent the axis o
 Perhaps it's impossible to find a truly elegant and universal solution for the simple reason that ordered lists and ratings are always very reductive, and ultimately overused (in most situations unnecessary). Still seems useful to attempt to improve the methods since we will continue to use them in some capacity anyway. 
 
 Anyway if you have any good ideas dm me on discord @skifreak.
+
+---
+More: [Posts](./tags/posts)
