@@ -12,8 +12,6 @@ This is an index of trackmania resources, especially for mapping, both on this s
 - You may need to use ctrl+f5 to force this page to update with newly added resources.
 ---
 # Mapping Resources:
-
-
 ### TM Transition Bank
 - [[TM Transition Bank]]
 - Probably what you are looking for :)

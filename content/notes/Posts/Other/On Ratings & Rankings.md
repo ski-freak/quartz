@@ -31,5 +31,7 @@ Perhaps it's impossible to find a truly elegant and universal solution for the s
 
 Anyway if you have any good ideas dm me on discord @skifreak.
 
+Edit: You would probably also want a way of saying something has a margin of error but only really in one direction, like you may want to put it higher but definitely not lower, for example.
+
 ---
 More: [Posts](./tags/posts)
