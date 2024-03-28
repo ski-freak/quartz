@@ -9,3 +9,6 @@ I just typed some dings to nix, and I'm just going to screenshot them and paste 
 
 ![[Pasted image 20240328162106.png]]
 ![[Pasted image 20240328162126.png]]
+
+---
+More: [Posts](./tags/posts)
