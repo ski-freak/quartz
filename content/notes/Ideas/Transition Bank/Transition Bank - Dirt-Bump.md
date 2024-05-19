@@ -17,3 +17,6 @@ tags:
 ![[q-ds (4).png]]
 
 ![[Pasted image 20231125175728.png]]
+
+![[Pasted image 20240519174540.png]]
+

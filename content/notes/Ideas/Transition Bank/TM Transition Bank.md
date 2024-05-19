@@ -1,3 +1,9 @@
+---
+title: TM Transition Bank
+tags:
+  - evergreen
+  - ideas
+---
 Just a collection of images of interesting transitions and jumps. Should be pretty useful since it seems that a lot of transitions seem to get forgotten and almost never used while a few are very common and used all the time.
 
 - If you have a transition I should add, just send me an image of it on discord @skifreak.
@@ -37,10 +43,4 @@ Just a collection of images of interesting transitions and jumps. Should be pret
 - [[Transition Bank - Other-Bump]]
 - [[Transition Bank - Other-Other]]
 ---
-I'll make a page for fs transitions (across all road types) if people send me some to add i guess but for now I don't have one.---
-title: ""
-enableToc: 
-date: 
-tags:
-- 
----
+I'll make a page for fs transitions (across all road types) if people send me some to add i guess but for now I don't have one.

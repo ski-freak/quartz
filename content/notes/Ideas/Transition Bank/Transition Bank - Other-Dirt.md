@@ -8,3 +8,8 @@ tags:
 ---
 ![[q-od (2).png]]
 ![[Pasted image 20231125180550.png]]
+
+![[Pasted image 20240519174154.png]]
+
+![[Pasted image 20240519174900.png]]
+

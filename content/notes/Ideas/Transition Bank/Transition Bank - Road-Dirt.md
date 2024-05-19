@@ -73,3 +73,28 @@ tags:
 ![[Pasted image 20231125180810.png]]
 
 ![[Pasted image 20231125181022.png]]
+
+![[Pasted image 20240519093303.png]]
+
+![[Pasted image 20240519093328.png]]
+
+![[Pasted image 20240519093338.png]]
+
+![[Pasted image 20240519093548.png]]
+
+![[Pasted image 20240519093654.png]]
+
+![[Pasted image 20240519093716.png]]
+
+![[Pasted image 20240519173958.png]]
+
+![[Pasted image 20240519174405.png]]
+
+![[Pasted image 20240519174948.png]]
+
+![[Pasted image 20240519175050.png]]
+
+![[Pasted image 20240519175220.png]]
+
+![[Pasted image 20240519175310.png]]
+

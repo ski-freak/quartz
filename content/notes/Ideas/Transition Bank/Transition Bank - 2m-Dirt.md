@@ -62,8 +62,6 @@ tags:
 
 ![[q-bd (2).png]]
 
-![[q-bd (13).png]]
-
 ![[q-bd (23).png]]
 
 ![[q-bd (8).png]]
@@ -103,3 +101,26 @@ tags:
 ![[Pasted image 20231125230404.png]]
 
 ![[Pasted image 20231125230424.png]]
+
+![[Pasted image 20240519092845.png]]
+
+![[Pasted image 20240519093416.png]]
+
+![[Pasted image 20240519093641.png]]
+
+![[Pasted image 20240519093707.png]]
+
+![[Pasted image 20240519093744.png]]
+
+![[Pasted image 20240519174008.png]]
+
+![[Pasted image 20240519174044.png]]
+
+![[Pasted image 20240519174258.png]]
+
+![[Pasted image 20240519174339.png]]
+
+![[Pasted image 20240519175010.png]]
+
+![[Pasted image 20240519175043.png]]
+
