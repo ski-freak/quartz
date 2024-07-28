@@ -12,11 +12,11 @@ Most of these were done for the purpose of the mapper improving their future map
 
 A few examples of longer reviews/critiques
 - Vneck's Quantum Supernova review essay (very good) [link](https://www.youtube.com/watch?v=_rysCD70wu8)
-- Void review from Ski & Agra (podcast form) [link](https://youtu.be/blWyuKXZh0o)
+- Void review from Ski & Agra (20 minute discussion) [link](https://youtu.be/blWyuKXZh0o)
 
 General mapping theory discussions
 - Speedfun & a Rex map [link](https://youtu.be/5P8W9l9A5vk)
-- Risky fin discussion with Agrabou (long) [link](https://youtu.be/A-n9j3SmWto)
+- Risky fin discussion with Agrabou (long podcast) [link](https://youtu.be/A-n9j3SmWto)
 
 My short map feedbacks (video form)
 - [Elliot double map review](https://www.youtube.com/watch?v=3djTgeQjwtc)
