@@ -24,6 +24,8 @@ My short map feedbacks (video form)
 - [Vinyl Review](https://youtu.be/blWyuKXZh0o)
 - [Velv mixed map](https://www.youtube.com/watch?v=9e2Hl9bA9VU) (he specifically asked about overspeed on one part)
 
+I also have done a lot of talking about maps on stream (and Nix's stream), but they are not saved anywhere unfortunately, that's generally where I tend to go into more detail on theorizing about maps.
+
 Below are some of my short text + image reviews:
 
 ---
