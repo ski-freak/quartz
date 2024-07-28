@@ -12,6 +12,7 @@ Most of these were done for the purpose of the mapper improving their future map
 
 A few examples of longer reviews/critiques
 - Vneck's Quantum Supernova review (essay, very good) [link](https://www.youtube.com/watch?v=_rysCD70wu8)
+	- Here is a small bonus yapping [[Map Testing Bank Bonus Yap]]
 - Void review from Ski & Agra (20 minute discussion) [link](https://youtu.be/blWyuKXZh0o)
 
 General mapping theory discussions
