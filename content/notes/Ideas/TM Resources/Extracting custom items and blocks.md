@@ -11,7 +11,8 @@ tags:
 Extracting custom items and blocks using Openplanet.
 
 1. Open the map in any mode.
-2. Click _System -> Folders -> MemoryTemp_ in the Openplanet menu.
-3. Find your desired assets in `CurrentMap_EmbeddedFiles/ContentLoaded` and click `Extract`.
-4. Click _Openplanet -> Open extract destination_ to find your extracted files.
+2. Ensure you are in the *Developer* signature mode in the openplanet developer -> signature mode drop down.
+3. Click _System -> Folders -> MemoryTemp_ in the Openplanet menu.
+4. Find your desired assets in `CurrentMap_EmbeddedFiles/ContentLoaded` and click `Extract`.
+5. Click _Openplanet -> Open extract destination_ to find your extracted files.
 
