@@ -1,9 +1,8 @@
 ---
-title: ""
+title: A conversation forwarded to ciabhan
 enableToc: 
 date: 
 tags:
-- 
 ---
 ![[Pasted image 20240907183551.png]]
 
