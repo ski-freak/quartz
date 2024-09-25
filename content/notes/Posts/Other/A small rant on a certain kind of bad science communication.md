@@ -1,13 +1,15 @@
 ---
 title: A small rant on a certain kind of bad science communication
 enableToc: 
-date: 
+date: 2024-08-05
 tags:
   - posts
 ---
 This was originally written in discord dms, I'm just throwing it up here.
 
- idk if you've noticed this as well but the people who are really pop science pilled / doing science communication seem to like to make references to abstract philosophical concepts, often as conclusions, often to just say something that sounds really deep/big while talking about actual science stuff, and almost always without actually engaging with the philosophical question or making any real attempt to move from whatever science observation (which half the time is just some 'oh look at this, this isn't guaranteed to be false, science hasn't DISproved x thing it exists in this math here but it probably doesn't exist in real life') to the philosophical conclusion and instead just stating it while barely even bothering to hand wave.
+---
+
+idk if you've noticed this as well but the people who are really pop science pilled / doing science communication seem to like to make references to abstract philosophical concepts, often as conclusions, often to just say something that sounds really deep/big while talking about actual science stuff, and almost always without actually engaging with the philosophical question or making any real attempt to move from whatever science observation (which half the time is just some 'oh look at this, this isn't guaranteed to be false, science hasn't DISproved x thing it exists in this math here but it probably doesn't exist in real life') to the philosophical conclusion and instead just stating it while barely even bothering to hand wave.
 
 And it's just fucking annoying because they're barely communicating accepted science anymore at that point and they're giving really bad philosophy. For example when they dip into something something multiverse / many worlds interpretation, free will because something something quantum mechanics disproves determinism (this is my example that is most accurate to what I am describing, it's kind of hard to remember all the instances of this stuff), yapping about the potential possibility of white holes or what is inside a black hole, etc.
 
