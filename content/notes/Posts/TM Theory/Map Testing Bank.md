@@ -1,7 +1,7 @@
 ---
 title: Map Testing Bank
 enableToc: 
-date: 
+date: 2024-08-01
 tags:
   - tmtheory
   - posts
