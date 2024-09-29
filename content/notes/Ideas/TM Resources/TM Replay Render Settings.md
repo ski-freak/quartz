@@ -32,7 +32,7 @@ Once you click ok it will open up a prompt for the video compression codec, you 
 To not have a broken render, you need to ensure you do these things:
 - **CALCULATE SHADOWS BEFORE RENDERING!!!**
 - If you have any of them enabled, **DISABLE** Tweaker and any skid marks plugins. Also ensure you do not have a `Documents\Trackmania\Skins\Stadium\ModWork` folder. If you have a modwork folder, delete it / back it up somewhere else.
-- Turning down the motion blur setting in the render settings will make the camera go all wonky, don't do that.
+- Turning down the motion blur setting in the render settings will make the camera go all wonky, don't do that. Edit: According to Zai, none motion blur is fixed in tm2020, but half and quarter are still broken.
 - If you are rendering from the map editor, the big stadium signs may display the graphic of your pinned club, so unpin your pinned club if you have one or pin one that has a mostly blank background (such as the Pancake Mapping Zone club which I use specifically for this purpose).
 - You may need to use the export and import clip buttons in the bottom left to copy the ambience media tracker (if a map has it) over to where you are rendering from if you are rendering from the map editor or from an autosaved replay.
 - If you are rendering with a Player Camera (such as when rendering a normal replay of driving), ensure you move the green player head OFF of the ghost clip track in the timeline before clicking the avi button. If you don't do this, the replay will begin rendering at the camera position it was when you clicked the button, ruining the beginning of the render.
