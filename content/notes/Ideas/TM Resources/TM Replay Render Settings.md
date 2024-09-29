@@ -35,6 +35,7 @@ To not have a broken render, you need to ensure you do these things:
 - Turning down the motion blur setting in the render settings will make the camera go all wonky, don't do that.
 - If you are rendering from the map editor, the big stadium signs may display the graphic of your pinned club, so unpin your pinned club if you have one or pin one that has a mostly blank background (such as the Pancake Mapping Zone club which I use specifically for this purpose).
 - If you are rendering with a Player Camera (such as when rendering a normal replay of driving), ensure you move the green player head OFF of the ghost clip track in the timeline before clicking the avi button. If you don't do this, the replay will begin rendering at the camera position it was when you clicked the button, ruining the beginning of the render.
+- If you want 16:9 aspect ratio use 2560x1440 or whatever your preferred resolution is. 1440p or higher is recommended for youtube as you get much better compression.
 - If you are rendering for Ski, ensure you are rendering in camera 2 (set in the player camera clip), and in 3440x1440 resolution (set in the avi render settings).
 - If you are going through the Create -> Replay Editor menu, when you check the replay you want to render and click it, don't click the render button there, just open it in the actual replay editor, otherwise some of these steps are impossible.
 - If someone has a dumb car skin you don't want in your video, you can replace it in the ghost clip settings. Whiskey made these simple skins with colored accents just for rendering videos, you can download them from this [Google Drive](https://drive.google.com/drive/folders/1oE6aBaIj5NgwwggB9ywr3sQCyikygaLt?usp=sharing) page and put them into `Documents\Trackmania\Skins\Models\CarSport` (do not unzip them).
@@ -43,5 +44,4 @@ To not have a broken render, you need to ensure you do these things:
 - You may need to restart your game after doing some of the setup, such as installing the codec, deleting your modwork folder, or adding the car skins to your documents/trackmania folder.
 - You cannot change the folder the videos are rendered to, because Nadeo sucks. Better hope you have space on your C drive.
 - With these settings, render speeds of ~2fps are normal on maps with somewhat heavy scenery and a video card similar to an RTX 2070. On maps with very light scenery you may get up to about 12fps.
-- If you want 16:9 aspect ratio use 2560x1440 or whatever your preferred resolution is. 1440p or higher is recommended for youtube as you get much better compression. If working with Ski use 3440x1440.
 - DON'T render in 16:9 and add black bars, if you do you are very dumb.
