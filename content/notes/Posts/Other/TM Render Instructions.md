@@ -1,7 +1,7 @@
 ---
 title: TM Render Instructions
 enableToc: 
-date: 
+date: 2024-09-28
 tags:
   - tmresources
 ---
