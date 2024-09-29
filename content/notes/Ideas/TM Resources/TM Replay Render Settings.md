@@ -24,7 +24,7 @@ Ensure your settings match these (you can change the name of course):
 ![[Pasted image 20240928183750.png]]
 
 > [!NOTE]
-> The videos are rendered as avi files in 2mb chunks, this is normal.
+> The videos are rendered as avi files in 2gb chunks, this is normal.
 ### Codec
 Once you click ok it will open up a prompt for the video compression codec, you will want to use one because otherwise the file size for rendering 1 replay will be massive. If you are using Davinci Resolve (or working with someone who does, such as myself), use the Grass Valley codec on the HQX version. Here is a direct download link to the codec [installer](https://www.edius.net/download/codec/GV_CodecOption_Setup-8.5.0.1927.exe). If you are not using Resolve, a codec such as Lagarith Lossless will also do the trick.
 
